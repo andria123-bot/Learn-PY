@@ -1,0 +1,18 @@
+name = input("Enter your full name: ")
+
+# resoult = len(name)
+# resoult = name.find("o")
+# resoult = name.rfind("o")
+# resoult = name.capitalize()
+# resoult = name.upper()
+# resoult = name.lower()
+# resoult = name.isdigit()
+# resoult = name.isdecimal()
+# resoult = name.isalpha()
+# resoult = name.count("a")
+# resoult = name.replace(" ", " space ")
+# resoult = name.endswith(" ")
+# resoult = name.encode("ascii")
+resoult = name.islower()
+
+print(resoult)
